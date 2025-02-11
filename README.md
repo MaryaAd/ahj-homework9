@@ -18,7 +18,7 @@ https://maryaad.github.io/ahj-homework9/
 
 ---
 
-### Collapse
+### Collapsekk
 
 #### Легенда
 
